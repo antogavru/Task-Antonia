@@ -51,9 +51,8 @@ small and middle deployments, and you shouldn’t feel obligated to use this
 feature. However we understand that this tool wouldn’t be useful if you couldn’t
 customize it when you are ready for it.
 
-## Learn More
+## Mock server
+https://api.mocki.io/v2/2d91ec60/trips 
 
-You can learn more in the
-[Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+In order to be more compliant with the requirement, the data is retrived from the above online server created with mocki.io .
+It will expire in 7 days.
