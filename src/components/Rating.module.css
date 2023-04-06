@@ -1,0 +1,23 @@
+.starWrapper {
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+    vertical-align: center;
+    width: 5em;
+    height: 1em;
+    line-height: 1;
+  }
+  .starWrapper:first-child {
+    margin-left: 1em;
+  }
+  
+  .star {
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    font-size: 1em;
+    line-height: 1;
+    color: gold;
+  }
